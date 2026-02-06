@@ -14,6 +14,3 @@ Mini proyecto en Python: gestor de tareas en consola (CRUD básico).
 - Eliminar tarea
 - Salir
 
-## Cómo ejecutar
-```bash
-python main.py
